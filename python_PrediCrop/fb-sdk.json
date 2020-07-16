@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weatheappv3",
+  "private_key_id": "793dcf68b6875f028dac6aeae5e8e55da0ca9948",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLFH7UnTC9DTkm\nZrKrScthvngBLfk3mrTlOYb7KczCrs8lgtiQ1mewkxuZDWAPoWq+WVzbfeRWSRA1\nFFluAB752MBCTVGxiOzE67dZqOyJzs0KIv/Nua/d0IN4m9dZi1hh2ANuSLEmAZcE\nlqrYZ0F2UjBtvKROsbMLUzeajcCsK64w5a6lcIpICJqGmPNqk4ZQusF+yAzML1w/\nNJZZS/8EGyvprSigh3LVzIJGummwPteNsax+QozA7vJZ6BfD8FokIOURW7GJNhta\nyB35KXr7+rY4xlUzZRjkKyVCi2v0cL+AL6CQXYETUhTnbN+B6NbD21JwXDGVvZif\n/E+27LYhAgMBAAECggEAA3AgDf6tlaDJ7WogvMqj/iBZ7FKKpx5E3j07WgJU+H40\nf+2BpRFDFSqfxiXo3oi2QCq/7euT4pz8q0k7st7KepE0zcwblWnzILo1yTU7f/vB\nFmDvhfJTAlFSbKpH4E5pOAWhrmmvhQcJSLC2RrJFEZ5ov3pdgpX9Mm3t/BJeECDH\ndSHgoqK7fZ2o5WTETf44sRe3rgTei5c+RWVKRayEIG7G2kWuYblgLHm2estI40I+\nU3XaCduZOtI++TBwzkr93QdgJFzR17L/v08pjzo46ZT9AEgAEHFEu8mpPrHkocaO\nRHy1an/v2C6qdtivG4YrgPmeNZ38nfanz04PPoZ9iQKBgQDEnkjd33l/+NALsBPr\nMovbNB6SnAQL4EEr2us/8ejD6BWivqD6we+CoFRIyT2osA1s/WlS24LB5uhPyoG9\n8rEjDFBxkeQnsq2dtZMmpLfoJuCC9IKpTYFhS4FsnofxkVrapT1mdU19Ex6FJlPk\nOCdoeIucnPTHjDsEhX8+1Ak76QKBgQC1FZd1tItctwDoDvrOHk7XNYn8y5770z19\nujvCvvArtDXzTC/jJAXMbXQEjVwKjx8odzHxvlrUZ6LPw6ixpzFZvF4/Z9lSHp2Y\nUmYLsvK4XD7UApLZ3w4jPS+IgbOIqUhqC/TDlxldC9xCIZyRP+15hF7YMOhyd1gR\nOqjortYdeQKBgAR/RlVk1ieaLlAGH/6CMna6E3TxApqu726sXDMjOlq4xT3qtE3n\n/61yM1tS1wkztarnhPAzOyNqP6gLjrokge62SmS+nIRX7uarj4kTvW0e7oWwSAjN\nUAdErdopKhzZYUWc//GG/1W8CTesb8DJlAUstKzJXkPuLi9lSkrKmMd5AoGAWKGp\n0V29/HJCClMSpQImmqVE1augNCevaDNX/rjP+sQox92ZbrZ59BX6fCPoUe69VGQK\n2QTPljjncoOUtOdde0t8YdJlhxEfF6f09HLw5BWaVtCvqd3IIK1Y75p0Ekaw/968\nPWNecbFVbDThWiKNDDYi6fP+QdByFXS9qa2xdRkCgYB2+gba7tsxFdaO/bv/339w\nUJDBLze/6MDboIbCfkrah/zSTFDAN+OyXGbm79K2ygQAftZy1oj7n7AQ0UeTHMBG\n9oErlB3bxdOgzJiyk71mBRGex/twNQmbGHMKi7H5qfG5XlAuiZohG68IcyXVFkj3\nTn2Vr2iw+/kvrGBado+NqQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3m7je@weatheappv3.iam.gserviceaccount.com",
+  "client_id": "104062412603328924698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3m7je%40weatheappv3.iam.gserviceaccount.com"
+}
