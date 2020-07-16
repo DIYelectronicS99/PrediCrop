@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrediCrop</string>
+    <string name="enter_city_country_name">enter city/country name</string>
+    <string name="get_weather">get weather</string>
+    <string name="no_data">no data</string>
+    <string name="no_soil_found_yet">no soil found yet</string>
+    <string name="unavailable">unavailable</string>
+    <string name="cropname">cropname</string>
+</resources>

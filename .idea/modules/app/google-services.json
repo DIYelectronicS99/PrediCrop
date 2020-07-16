@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619421736049",
+    "firebase_url": "https://weatheappv3.firebaseio.com",
+    "project_id": "weatheappv3",
+    "storage_bucket": "weatheappv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619421736049:android:0b259ed811601cb4708fd0",
+        "android_client_info": {
+          "package_name": "com.example.weatheappv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619421736049-erba7j0tj14c0fnc63l4e940gbm5elb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatheappv3",
+            "certificate_hash": "2928e6cb4d8580e4d91983843c2df23bd9076e20"
+          }
+        },
+        {
+          "client_id": "619421736049-1u1j5spftqd5u1g9d1en2ecji07fej83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiP7tuZ9Ml4FdYBSLCoiYQRUCQdEIqtvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619421736049-1u1j5spftqd5u1g9d1en2ecji07fej83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
